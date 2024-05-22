@@ -6,7 +6,10 @@ function Type() {
     <Typewriter
       options={{
         strings: [
+          "Full Stack Web Developer",
           "Software Developer",
+          "JAVA",
+          "Angular Js",
           "Flutter Developer",
           "Cross Platform Developer",
           "Android Application Developer"
@@ -14,7 +17,7 @@ function Type() {
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 100,
       }}
     />
   );

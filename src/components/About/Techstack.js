@@ -4,15 +4,15 @@ import { CgCPlusPlus, CgCap } from "react-icons/cg";
 import {
   
   DiNodejs,
-  
+  DiAndroid,DiWebplatform,
   DiGit,
   DiJava
   
 } from "react-icons/di";
 import {
   
-  SiFirebase
-  
+  SiFirebase,
+  SiAngularjs,SiReact,SiJavascript,SiSimilarweb,SiWebpack
   
 } from "react-icons/si";
 import {TbBrandFlutter } from "react-icons/tb";
@@ -20,18 +20,18 @@ import {TbBrandFlutter } from "react-icons/tb";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      {/* <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons">
         <CgCPlusPlus />
-      </Col> */}
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <TbBrandFlutter />
       </Col>
 
 
       
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
-      </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAngularjs />
+      </Col>
 
 
 
@@ -42,18 +42,18 @@ function Techstack() {
 
 
 
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <TbSquareRoundedLetterC />
+      <Col xs={4} md={2} className="tech-icons">
+        <SiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <SiJavascript />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <DiAndroid />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
-      </Col> */}
+        <SiWebpack />
+      </Col>
 
 
 

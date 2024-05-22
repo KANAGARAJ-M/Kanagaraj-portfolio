@@ -24,16 +24,17 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C, JAVA, FLUTTER & Dart. </b>
+                <b className="purple"> C, JAVA, Angular Js, React, Javascript, FLUTTER & Dart. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Mobile, Web Application and Products </b> and
+                <b className="purple"> Full Stack Web Developer, Angular Js, React Js, Software Development, Flutter Cross Platform Application Developer, Software Testing, UI/UX, and Web Application Developer</b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  ANDROID APPLICATION DEVELOPEMENT.
+                Angular Js, Web Application Developement.
+                  {/* ANDROID APPLICATION DEVELOPEMENT. */}
                 </b>
               </i>
               <br />
@@ -48,7 +49,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> FLUTTER and API'S</b>
+                <b className="purple"> Databases and API'S</b>
               </i>
             </p>
           </Col>

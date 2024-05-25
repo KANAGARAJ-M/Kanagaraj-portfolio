@@ -25,9 +25,11 @@
     <a href="https://github.com/KANAGARAJ-M/Kanagaraj-portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+<!-- ## TL;DR -->
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## Remember to Credit KANAGARAJ-M
+
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KANAGARAJ-M](https://github.com/KANAGARAJ-M/Kanagaraj-portfolio). Thanks!
 
 ## Built With
 

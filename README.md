@@ -2,9 +2,9 @@
   Portfolio Website - v2.0<br/>
   <a href="https://kanagaraj-m.netlify.app/" target="_blank">Kanagaraj M Portfolio</a>
 </h2>
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+</div> -->
 
 <br/>
 
